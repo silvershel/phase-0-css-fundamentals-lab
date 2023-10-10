@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+ background-color: antiquewhite;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+section {
+  text-align: center;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+section > p {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+div {
+  float: left;
+  background-color: antiquewhite;
+  text-align: center;
+  width: 25%;
+
+}
